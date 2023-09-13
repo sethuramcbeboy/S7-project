@@ -1,0 +1,22 @@
+{
+  "name": "aiimage",
+  "version": "1.0.0",
+  "description": "Full stack mern AI image generation app",
+  "main": "index.js",
+  "scripts": {
+    "test": "nill"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHABIN-K/AI-Image-Generation-Mern-app.git"
+  },
+  "keywords": [
+    "nill"
+  ],
+  "author": "SHABIK-K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SHABIN-K/AI-Image-Generation-Mern-app/issues"
+  },
+  "homepage": "https://github.com/SHABIN-K/AI-Image-Generation-Mern-app#readme"
+}
